@@ -1,0 +1,4 @@
+v1
+{"path":"file:///C:/Users/phaml/OneDrive/Documents/GitHub/DS-2002/Capstone/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/silver/part-00000-6749829d-6e33-4b3b-aae3-006220ebbd47-c000.snappy.parquet","size":2178,"isDir":false,"modificationTime":1777602926939,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/phaml/OneDrive/Documents/GitHub/DS-2002/Capstone/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/silver/part-00006-1ff476c1-7dd5-41af-917d-473c3ab6fb66-c000.snappy.parquet","size":13212,"isDir":false,"modificationTime":1777602926987,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///C:/Users/phaml/OneDrive/Documents/GitHub/DS-2002/Capstone/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/silver/part-00012-5802eba7-393a-460e-9cc5-f0cada88259f-c000.snappy.parquet","size":14114,"isDir":false,"modificationTime":1777602927165,"blockReplication":1,"blockSize":33554432,"action":"add"}

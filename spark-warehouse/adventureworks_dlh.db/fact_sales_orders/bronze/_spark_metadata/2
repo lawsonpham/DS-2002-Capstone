@@ -1,0 +1,2 @@
+v1
+{"path":"file:///C:/Users/phaml/OneDrive/Documents/GitHub/DS-2002/Capstone/spark-warehouse/adventureworks_dlh.db/fact_sales_orders/bronze/part-00000-0b20c369-176f-4b6f-9278-a451f5f66a46-c000.snappy.parquet","size":20416,"isDir":false,"modificationTime":1777602913032,"blockReplication":1,"blockSize":33554432,"action":"add"}
